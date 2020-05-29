@@ -82,9 +82,7 @@ public class Main {
             int pref;
             int suff;
             int max;
-
         }
-
     }
 
     static class FastReader {
